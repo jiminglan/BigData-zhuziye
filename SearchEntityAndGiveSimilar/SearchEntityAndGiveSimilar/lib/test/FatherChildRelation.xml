@@ -1,0 +1,2211 @@
+<?xml version="1.0" encoding="utf-8"?>
+<document>
+	<node name = "套餐类">
+		<node name = "天翼乐享4g">
+			<child>天翼乐享4G套餐</child>
+			<child>天翼乐享4G套餐-79元</child>
+			<child>天翼乐享4G套餐-99元</child>
+			<child>天翼乐享4G套餐-59元</child>
+			<child>天翼乐享4G套餐-399元</child>
+			<child>天翼乐享4G套餐-499元</child>
+			<child>天翼乐享4G套餐-299元</child>
+			<child>天翼乐享4G套餐-329元</child>
+			<child>天翼乐享4G套餐-229元</child>
+			<child>天翼乐享4G套餐-599元</child>
+			<child>天翼乐享4G套餐-169元</child>
+			<child>天翼乐享4G套餐-199元</child>
+			<child>天翼乐享4G套餐-129元</child>
+			<child>天翼乐享4G套餐-999元</child>
+		</node>
+		<node name = "天翼4G无线上网卡、上网宝（MiFi）季卡／半年／年卡套餐">
+			<child>天翼4G无线上网卡、上网宝（MiFi）季卡／半年／年卡套餐-季卡（90天）</child>
+			<child>天翼4G无线上网卡、上网宝（MiFi）季卡／半年／年卡套餐</child>
+			<child>天翼4G无线上网卡、上网宝（MiFi）季卡／半年／年卡套餐-季卡（90天）</child>
+			<child>天翼4G无线上网卡、上网宝（MiFi）季卡／半年／年卡套餐-半年卡（180天）</child>
+			<child>天翼4G无线上网卡、上网宝（MiFi）季卡／半年／年卡套餐-年卡（365天）</child>
+		</node>
+		<node name = "更多">
+			<child>4G流量卡(流量小王-校园尊享版)</child>
+			<child>iFree卡黄金版</child>
+			<child>无线宽带（增强版）--流量套餐</child>
+			<child>无线宽带（增强版）--流量套餐-300元</child>
+		</node>
+	</node>
+	<node name = "活动类">
+		<node name = "话费">
+			<child>中国电信欢go网站-网龄购机送话费</child>
+			<child>网厅、掌厅-办副卡送话费</child>
+			<child>网、掌厅、微信-充值元送元话费促销活动</child>
+			<child>暑期促销-G流量卡话费促销活动</child>
+			<child>天翼生活-宽带续约送话费</child>
+			<child>江苏电信掌上营业厅WAP厅、天翼生活、“江苏电信”微信公众号-充话费送话费活动</child>
+			<child>江苏电信掌上营业厅WAP厅、天翼生活、“江苏电信”微信公众号-充话费送话费活动</child>
+			<child>欢go-手机话费充值.折</child>
+			<child>辞旧迎新-天翼大抽奖，狂送购机券、话费、流量</child>
+			<child>天翼空间-易漫乐园抽奖赢话费活动</child>
+		</node>		
+		<node name = "上网">		
+			<child>单产品包年宽带续约提速活动</child>
+			<child>aWiFi商户联盟-宽带智能提速</child>
+			<child>网厅、掌厅-天翼亲情网免费提</child>
+			<child>品牌客户每月赠送10M手机上网流量的优惠活动速活动</child>
+		</node>	
+		<node name = "业务活动">
+			<child>翼支付-甜橙信用随意借“橙意感恩季-橙意免单”活动</child>
+			<child>翼支付-交费助手送理财特权码活动</child>
+			<child>翼支付-加油折立减活动</child>
+			<child>翼支付-水电煤折活动</child>
+			<child>翼支付-“翼动生活、建行有礼”活动</child>
+			<child>翼支付-天翼星级客户理财特权活动</child>
+			<child>翼支付客户端-百度外卖活动</child>
+			<child>翼支付-橙信生活“木鸟短租”活动</child>
+			<child>翼支付-橙信生活“印客时光”活动</child>
+			<child>翼支付-橙信生活“凹凸租车”活动</child>
+			<child>翼支付-友宝“折购”活动</child>
+			<child>翼支付甜橙点券-白色情人节活动</child>
+			<child>翼支付-甜橙理财一元抵一万活动</child>
+			<child>翼支付甜橙理财A股-开户推荐有礼活动（中信证券）</child>
+			<child>翼支付-甜橙理财周一优选基金（赚了归你，亏了算我）活动</child>
+			<child>爱动漫-年馒头君送爱动漫VIP活动</child>
+			<child>爱动漫-年馒头君送爱动漫VIP活动</child>
+			<child>爱动漫-订爱动漫VIP送Q币活动</child>
+			<child>爱动漫-订爱动漫VIP送Q币活动</child>
+			<child>爱音乐-暑期大抽奖活动</child>
+			<child>订“爱音乐-故事宝贝畅听包”抽奖活动</child>
+			<child>爱音乐-欧洲杯足球之星活动</child>
+			<child>爱音乐-爱听G VIP买一送一，权益时长翻倍活动</child>
+			<child>天翼视讯财经猜指数活动</child>
+			<child>天翼视讯-欢乐猴年大迎春，开心芒果又一年活动</child>
+			<child>天翼空间-易漫乐园抽奖赢话费活动</child>
+			<child>天翼空间-月签到有礼活动</child>
+			<child>天翼空间-易乐园积分兑换活动</child>
+			<child>天翼空间-易商店“娱乐专区-有奖答题”活动</child>
+			<child>天翼空间-玩转欧洲杯足球游戏活动</child>
+			<child>天翼空间-唯品会双重专享特惠招募活动</child>
+			<child>天翼流量800-阿里巴巴流量钱包送流量活动</child>
+			<child>天翼流量800-百度钱包1分钱专享活动</child>
+			<child>天翼流量800-九游《笑傲江湖》送流量活动</child>
+			<child>天翼流量800-流量宝流量红包活动</child>
+			<child>天翼流量800／流量来了-“蛙鸣健康”送流量活动</child>
+			<child>天翼流量800-腾讯理财通送流量活动</child>
+			<child>天翼流量800-蜗牛公司《横行冒险王》手游送流量活动</child>
+			<child>天翼流量800-东方财富送100M活动（第二期）</child>
+			<child>天翼流量800-华泰证券新开户最高豪享1.5个G流量</child>
+		</node>
+		<node name = "更多">
+			<child>单产品宽带包天版</child>
+			<child>天翼老客户网龄特惠购机活动</child>
+			<child>宽带放价 畅快一夏-单宽带包年优惠</child>
+			<child>光纤改造费优惠活动</child>
+			<child>乐享4G存折计划</child>
+			<child>天翼年货限时特惠-直升百兆活动</child>
+			<child>中国电信欢go网站-“充值返利FUN开玩”活动</child>
+			<child>跨年盛宴、TCL彩电专场促销活动</child>
+			<child>看“书旗小说”流量免费送</child>
+			<child>流量A计划-500M免费专区活动</child>
+			<child>净网卫士30天免费体验活动</child>
+			<child>网银充值交费优惠活动</child>
+			<child>营业厅-iPhone SE合约计划</child>
+			<child>充值100元送1000分钟通话活动</child>
+			<child>4G首发上市活动</child>
+			<child>全网通任性付活动</child>
+			<child>4G乐享合约礼包8／10倍企业担保（政企）</child>
+			<child>iPhone6s、iPhone6s Plus合约计划</child>
+			<child>iPhone6、iPhone6 Plus合约计划</child>
+			<child>网厅积分抵现金购机</child>
+			<child>“疯狂500M”免流量下载活动</child>
+			<child>网厅、天翼生活-iPhone6s/6s Plus活动</child>
+			<child>江苏电信网上营业厅4G专区活动</child>
+			<child>网厅、掌厅-华为P9合约计划</child>
+			<child>网厅、掌厅-乐视2代合约计划</child>
+			<child>流量宝-免流量下载客户端活动</child>
+			<child>网厅、掌厅-三星S7合约促销活动</child>
+			<child>订购优酷视频特权包送流量</child>
+			<child>中国电信欢go网站-“春暖花开日”新入网存100送100活动</child>
+			<child>iFree以老带新活动</child>
+			<child>“心系天下”三星W2015旗舰智能手机礼包活动</child>
+			<child>宽带放价 畅快一夏-路由器宽带大礼包</child>
+			<child>五一活动-集码抢流量促销活动</child>
+			<child>微信-流量biu biu biu活动</child>
+			<child>微信--领6G流量活动</child>
+			<child>中国电信欢go网站、天翼生活-3G升4G专区送6G流量活动</child>
+			<child>欢go客户端-手机早市活动</child>
+			<child>4G乐享合约礼包8／10倍企业担保（政企）</child>
+			<child>189.cn年终盛典-宽带红包优惠活动</child>
+			<child>中国电信欢go网站-办iTV抽奖活动</child>
+			<child>翼汇财-买理财送流量活动</child>
+			<child>天翼流量800-阿里巴巴流量钱包送流量活动</child>
+			<child>iPad air2首发上市活动</child>
+			<child>中国电信欢go网站-老客户办合约机活动</child>
+			<child>微视窗-流量红包活动</child>
+			<child>欢go客户端-iPhone SE合约计划</child>
+			<child>2016暑期促销-金榜题名大礼包活动</child>
+			<child>中国电信欢go网站-流量月包9折购活动</child>
+			<child>天翼生活、微信-欧洲杯竞猜，流量翻倍送活动</child>
+			<child>UC客服中心微信刮刮卡活动</child>
+			<child>中国电信客服-关机一小时促销活动</child>
+			<child>iFree特惠日流量包抢购活动</child>
+			<child>爱电视乐享包体验活动</child>
+			<child>中国电信欢go网站-宽带续约活动</child>
+			<child>宽带放价 畅快一夏-融合宽带礼包活动</child>
+			<child>宽带放价 畅快一夏-电信电视宽带活动</child>
+			<child>天翼快乐夺宝活动</child>
+			<child>微信-“4G欢乐送”活动</child>
+			<child>爱看4G-新客户专享“欢乐7+7”活动</child>
+			<child>财经最前线-“浓情缤纷惠，好礼送不停”活动</child>
+			<child>中国电信欢go网站、欢go客户端-3G升4G活动</child>
+			<child>宽带放价 畅快一夏-乐享五折合约宽带优惠购</child>
+		</node>	
+	</node>
+	<node name = "产品类">
+		<node name = "爱动漫">
+			<child>爱动漫--神界漫画精品包</child>
+			<child>爱动漫-爆笑精品包</child>
+			<child>爱动漫-炫漫专题包</child>
+			<child>爱动漫专题包-北京奇乐</child>
+			<child>爱动漫-漫客专题包</child>
+			<child>爱动漫-逗趣专题包</child>
+			<child>爱动漫热门精品包</child>
+			<child>爱动漫“专题包-数联领航”</child>
+			<child>爱动漫-欢乐家庭精品包</child>
+			<child>爱动漫-漫花筒精品包</child>
+			<child>爱动漫-漫视界专题包</child>
+			<child>爱动漫-台湾文化精品包</child>
+			<child>爱动漫-漫乐吧专题包</child>
+			<child>爱动漫-悬疑精品包</child>
+			<child>爱动漫-神偷妙探精品包</child>
+			<child>爱动漫-唯美爱情精品包</child>
+			<child>爱动漫纷享包实体优惠卡</child>
+			<child>爱动漫-早教动漫精品包</child>
+			<child>爱动漫-新番速递精品包</child>
+			<child>爱动漫-动漫宅急送专题包</child>
+			<child>爱动漫-魔法爱情精品包</child>
+			<child>爱动漫-精品包</child>
+			<child>爱动漫-新华网专题包</child>
+			<child>爱动漫-剑侠情缘精品包</child>
+			<child>爱动漫-首映大电影精品包</child>
+			<child>爱动漫-芒果精品包</child>
+			<child>爱动漫-异域古侠精品包</child>
+			<child>爱动漫-北京中童专题包</child>
+			<child>爱动漫-国学精粹精品包</child>
+			<child>爱动漫-奇趣精品包</child>
+			<child>爱动漫-欢乐童年精品包</child>
+			<child>爱动漫-国漫精品包</child>
+			<child>爱动漫-画客原创精品包</child>
+			<child>爱动漫-元气漫动作精品包</child>
+			<child>爱动漫-热血江湖精品包</child>
+			<child>爱动漫-经典奇幻精品包</child>
+			<child>爱动漫-经典大作精品包</child>
+			<child>爱动漫--百视动漫精品包</child>
+			<child>爱动漫-哈哈画报精品包</child>
+			<child>爱动漫-恒梦圆专题包</child>
+			<child>爱动漫-娱乐漫享精品包</child>
+			<child>爱动漫--智趣乐园精品包</child>
+			<child>爱动漫-西子精品包</child>
+			<child>爱动漫专题包-炫影视频</child>
+			<child>爱动漫-韩漫精品包</child>
+			<child>爱动漫-青春武侠精品包</child>
+			<child>爱动漫动作精品包</child>
+			<child>爱动漫-魔法妈妈讲故事精品包</child>
+			<child>爱动漫-雪域趣漫精品包</child>
+			<child>爱动漫-都市漫话精品包</child>
+			<child>爱动漫-快乐家庭精品包</child>
+			<child>爱动漫-台湾动漫名家精品包</child>
+			<child>爱动漫-美丽传说专题包</child>
+			<child>爱动漫-动漫小铺精品包</child>
+			<child>爱动漫-地瓜动漫</child>
+			<child>爱动漫-动漫大电影</child>
+			<child>爱动漫-迅雷白金会员</child>
+			<child>爱动漫</child>
+			<child>爱动漫-快乐一家</child>
+			<child>爱动漫-博雅斗地主白银月卡</child>
+			<child>爱动漫VIP</child>
+		</node>
+		<node name = "翼支付">
+			<child>翼支付手机钱包</child>
+			<child>翼支付</child>
+			<child>翼支付客户端-红包应用</child>
+			<child>翼支付手机钱包</child>
+			<child>翼支付橙分期-喵卡</child>
+			<child>翼支付-当面付</child>
+			<child>翼支付-手机交费易业务</child>
+			<child>翼支付保险超市应用</child>
+			<child>翼支付手机客户端信用卡还款应用</child>
+			<child>翼支付个人账户业务</child>
+			<child>翼支付甜橙信用随意借</child>
+			<child>翼支付甜橙理财</child>
+			<child>翼支付收款码（二维码）支付</child>
+			<child>翼支付客户端-购（全国）火车票应用</child>
+			<child>翼支付客户端-全球购</child>
+			<child>翼支付卡</child>
+			<child>翼支付特权码</child>
+			<child>翼支付客户端-百度糯米应用</child>
+			<child>翼支付-甜橙白条</child>
+			<child>翼支付客户端-百度外卖应用</child>
+			<child>翼支付企业账户</child>
+			<child>翼支付-甜橙小贷</child>
+			<child>翼支付个人号码转账功能</child>
+			<child>翼支付-甜橙理财e股通</child>
+			<child>翼支付客户端-购电影票应用</child>
+			<child>翼支付甜橙保险-防癌险</child>
+			<child>翼支付民生应用</child>
+			<child>翼支付甜橙保险-国华意外伤害险、国华爱心重大疾病险</child>
+			<child>翼支付-交费助手业务</child>
+			<child>翼支付添益宝</child>
+			<child>翼支付-校园一卡通</child>
+			<child>翼支付-生活缴费应用</child>
+			<child>翼支付-甜橙快贷之拍拍贷</child>
+			<child>翼支付甜橙理财-专家托管</child>
+			<child>翼支付客户端-交通罚款应用</child>
+			<child>翼支付周边商户（安卓版）</child>
+			<child>翼支付客户端手机充值应用</child>
+			<child>翼支付爱心捐赠应用</child>
+			<child>（视频）翼支付产品及应用</child>
+		</node>
+		<node name = "流量">
+			<child>天翼闲时流量包</child>
+			<child>微信-流量礼包</child>
+			<child>天翼手机上网流量包</child>
+			<child>天翼G畅聊流量包</child>
+			<child>天翼G升级流量包</child>
+			<child>可视通话定向流量包</child>
+			<child>流量便利店</child>
+			<child>流量family（家庭）共享包</child>
+			<child>天翼手机流量加餐包</child>
+			<child>天翼天省内流量包</child>
+			<child>天翼天省内流量包</child>
+			<child>腾讯视频元定向流量包</child>
+			<child>天翼天全国流量包</child>
+			<child>云分享定向流量包</child>
+			<child>多米音乐定向流量包</child>
+			<child>优酷定向流量包</child>
+			<child>天翼手机流量季包、半年包、年包</child>
+			<child>网易游戏定向流量包</child>
+			<child>跟谁学定向流量包</child>
+			<child>爱玩G定向流量包</child>
+			<child>国际及港台漫游包天流量包</child>
+			<child>爱听G定向流量包</child>
+			<child>爱看G定向流量包</child>
+			<child>流量加油站</child>
+			<child>腾讯手机游戏定向流量包</child>
+		</node>
+		<node name = "爱音乐">
+			<child>爱音乐-听听畅听包</child>
+			<child>爱音乐-一说畅听包</child>
+			<child>爱音乐-故事宝贝畅听包</child>
+			<child>爱音乐-音悦台畅听包</child>
+			<child>爱音乐-高品质音乐包</child>
+			<child>爱音乐-“爱听+”会员畅听包</child>
+			<child>爱音乐-爱听G客户端</child>
+			<child>爱音乐卡拉OK</child>
+			<child>爱音乐会员</child>
+			<child>爱音乐</child>
+			<child>数字音乐下载（爱音乐全曲下载）</child>
+			<child>爱音乐全能听</child>
+			<child>爱音乐-音乐名片</child>
+			<child>中国电信爱音乐个性化彩铃</child>
+			<child>爱音乐星座幸运铃</child>
+		</node>
+		<node name = "爱游戏">
+			<child>爱游戏定向流量包</child>
+			<child>爱游戏-乐游达人包、乐游狂人包</child>
+			<child>爱游戏-冒泡游戏包</child>
+			<child>爱游戏-酷玩游戏包</child>
+			<child>爱游戏-腾讯包月产品</child>
+			<child>爱游戏-世纪佳缘包月业务</child>
+			<child>爱游戏-全民游戏包</child>
+			<child>爱游戏-超凡游戏包</child>
+			<child>爱游戏-爱玩G客户端</child>
+			<child>爱游戏</child>
+			<child>爱游戏-《苹果帮》手机报业务</child>
+			<child>爱游戏-《G时代》手机报业务</child>
+			<child>爱游戏-《游戏天下》手机报业务</child>
+		</node>
+		<node name = "itv">
+			<child>高清iTV</child>
+			<child>iTV-K超清专区</child>
+			<child>iTV酒店餐饮包间</child>
+			<child>iTV音乐秀-卡拉OK至尊包</child>
+			<child>iTV影视付费点播业务（百视通）</child>
+			<child>iTV影视付费点播业务（江苏广电）</child>
+			<child>iTV江苏好味道</child>
+			<child>iTV教育专区</child>
+			<child>iTV义方电视学堂</child>
+			<child>iTV-最纪实</child>
+			<child>iTV天才课堂</child>
+			<child>iTV电影看吧</child>
+			<child>iTV点歌送祝福（又叫点歌台）</child>
+		</node>
+		<node name = "天翼视讯">
+			<child>天翼视讯凤凰VIP跨屏产品包</child>
+			<child>天翼视讯-爱看G客户端</child>
+			<child>天翼视讯（PC）</child>
+			<child>天翼视讯（手机影视全国版）</child>
+			<child>天翼视讯-捷成华视网聚</child>
+			<child>天翼视讯-股票老左</child>
+		</node>
+		<node name = "号码百事通">
+			<child>号码百事通理财客户端</child>
+			<child>号码百事通-“亲在哪”（个人版）</child>
+			<child>号码百事通“养生365”</child>
+			<child>号码百事通心理顾问</child>
+		</node>
+		<node name = "天翼导航">、
+			<child>天翼导航海外版-远游</child>
+			<child>天翼导航车小秘</child>
+			<child>天翼导航</child>
+		</node>
+		<node name = "189邮箱">
+			<child>189邮箱</child>
+			<child>189邮箱手机账单（产品级）</child>
+		</node>
+		<node name = "天翼宽带">
+			<child>无线宽带WLAN（天翼宽带WiFi）业务</child>
+		</node>
+		<node name = "天翼空间">
+			<child>天翼空间</child>
+		</node>
+		<node name = "天翼阅读">
+			<child>天翼阅读</child>
+		</node>
+		<node name = "更多">
+			<child>天翼乐享畅享包</child>
+			<child>短信包</child>
+			<child>天翼乐视视频特权包</child>
+			<child>4G主副卡业务（乐享、飞Young4G套餐专享）</child>
+			<child>翼通宝</child>
+			<child>优酷联名卡特权包</child>
+			<child>优酷视频特权包</child>
+			<child>外勤助手（又称外勤手机、外勤e通）</child>
+			<child>国际及港澳台漫游（国际漫游）【2015年7月1日起执行】</child>
+			<child>天翼跨省实时补换卡</child>
+			<child>车管专家</child>
+			<child>天翼国际卡</child>
+			<child>翼校通</child>
+			<child>QQ业务</child>
+			<child>电话收音机</child>
+			<child>军翼网（省）</child>
+			<child>国际及港澳台长途</child>
+			<child>天翼补换卡</child>
+			<child>宽带停机保号</child>
+			<child>201电话卡</child>
+			<child>江苏银行天翼联名信用卡</child>
+			<child>爱玩4G加装包-高级VIP</child>
+			<child>爱看4G加装包-精品大片</child>
+			<child>宽带智能提速包</child>
+			<child>微视窗</child>
+			<child>果果乐园专题包</child>
+			<child>动漫彩信5元包产品</child>
+			<child>翼起来（客户版）客户端</child>
+			<child>天翼校园毕业生漫游包</child>
+			<child>动漫爱秀（天翼爱秀动漫包）</child>
+			<child>潮流快递铃音盒／特惠包</child>
+			<child>A计划12元特色包</child>
+			<child>天翼生活-江苏电信掌上营业厅客户端</child>
+			<child>天翼腾讯视频手机</child>
+			<child>IC卡公用电话</child>
+			<child>游戏来了</child>
+			<child>翼机通</child>
+			<child>欢go客户端</child>
+			<child>协同通信</child>
+			<child>天翼手机上网</child>
+			<child>天翼呼叫转移（遇忙、无条件、无人应答、不可及）</child>
+			<child>中国电信掌上营业厅客户端</child>
+			<child>智机通</child>
+			<child>农技宝</child>
+			<child>翼起玩</child>
+			<child>微信公众号-中国电信江苏客服</child>
+			<child>云加速</child>
+			<child>宽带星空游</child>
+			<child>氧气听书</child>
+			<child>天翼客服</child>
+			<child>智宽生活（手机版）</child>
+			<child>号百地图</child>
+			<child>天翼博客</child>
+			<child>号百时代院线</child>
+			<child>智慧社区-社区应用</child>
+			<child>健康心翼</child>
+			<child>明星播报</child>
+			<child>工商通</child>
+			<child>移动号百</child>
+			<child>天翼卫士</child>
+			<child>智慧社区-综治应用</child>
+			<child>天翼铃音秀</child>
+			<child>号百地图个人版-出行通</child>
+			<child>天翼对讲</child>
+			<child>天翼地图</child>
+			<child>挂机短信</child>
+			<child>位途通家庭版（爱家在线）</child>
+			<child>星空极速</child>
+			<child>宽带自助排障子应用</child>
+			<child>天翼闻道读报</child>
+			<child>爱冲印</child>
+			<child>天翼云／天翼云盘（集团）</child>
+			<child>天翼来电免打扰</child>
+			<child>彩信业务</child>
+			<child>位途通商客版</child>
+			<child>易信</child>
+			<child>天气预报</child>
+			<child>天翼看店／手机看店</child>
+			<child>天翼俱乐部阅读权益</child>
+			<child>国际及港澳台数据漫游（2015年7月1日起执行）</child>
+			<child>天翼云盾</child>
+			<child>aWiFi</child>
+			<child>爱看4G会员券</child>
+			<child>电脑保姆（集团）</child>
+			<child>4G-NFC</child>
+			<child>爱看4G-VIP会员</child>
+			<child>卫星移动电话业务</child>
+			<child>虚拟主机</child>
+			<child>爱电影俱乐部</child>
+			<child>铃音盒</child>
+			<child>天翼云桌面</child>
+			<child>天翼语音优先</child>
+			<child>数字医院</child>
+			<child>母婴乐园</child>
+			<child>天翼院线通</child>
+			<child>旺铺助手（招财宝）</child>
+			<child>掌财宝手机应用</child>
+			<child>爱秀动感彩铃</child>
+			<child>田园快讯</child>
+			<child>天翼健康顾问（号百健康顾问）</child>
+			<child>爱优惠-美食</child>
+			<child>星图</child>
+			<child>11800电话伴我行</child>
+			<child>翼求职</child>
+			<child>短信全能搜</child>
+			<child>“百事搜”客户端</child>
+			<child>彩铃管家</child>
+			<child>天翼爱秀</child>
+			<child>短信回执（增强版）</child>
+			<child>云主机</child>
+			<child>翼通宝学生版（智能学生证）</child>
+			<child>电话对对碰</child>
+			<child>双城通（曾用名：一卡双号）</child>
+			<child>点对点短信</child>
+			<child>健康顾问（固话版）</child>
+			<child>爱冲印会员套餐业务</child>
+			<child>手机阅读客户端（酷炫版）</child>
+			<child>商旅服务</child>
+			<child>爱乐点</child>
+			<child>宽带助手-国际快车</child>
+			<child>综合办公（网络版）</child>
+			<child>财经最前线</child>
+			<child>114点点洗车卡</child>
+			<child>“炫动梦想”音乐盒</child>
+			<child>校园服务助手</child>
+			<child>健康随行</child>
+			<child>陪伴客户端</child>
+			<child>位途通2.0</child>
+			<child>彩铃小剪刀</child>
+			<child>天翼亲情网</child>
+			<child>国内漫游</child>
+			<child>宽带卫星业务</child>
+			<child>国际漫游权限辅助开通功能</child>
+			<child>智慧云书院</child>
+			<child>互联星空电脑版</child>
+			<child>法律顾问</child>
+			<child>爱秀铃音</child>
+			<child>在线防杀毒墙</child>
+			<child>号百心情驿站</child>
+			<child>号百手机名片---全省</child>
+			<child>加密通信</child>
+			<child>千兆浏览器</child>
+			<child>卫星国际专线业务</child>
+			<child>天翼百科</child>
+			<child>天翼社区</child>
+			<child>WiFi国际及港澳台漫出业务</child>
+			<child>中国电信账单支付</child>
+			<child>理财顾问</child>
+			<child>寻Ta</child>
+			<child>短信助手（天翼）</child>
+			<child>手机卡（OTA卡）</child>
+			<child>互联星空WAP（互联星空手机版）</child>
+			<child>中国电信号百短信全能搜</child>
+			<child>空中卫士</child>
+			<child>天翼银宝</child>
+			<child>手机卫士</child>
+			<child>国际及港澳台长途</child>
+			<child>翼机通+</child>
+			<child>电信卡业务</child>
+			<child>固话呼出限制</child>
+			<child>天翼来电显示</child>
+			<child>手机无忧</child>
+			<child>17900IP卡</child>
+			<child>江苏电教同步课堂</child>
+			<child>超级副号</child>
+			<child>健康管家手机客户端</child>
+			<child>号簿助手</child>
+			<child>一号通行</child>
+			<child>铃音DIY</child>
+			<child>天翼通信助理</child>
+			<child>净网卫士</child>
+			<child>118333银联卡充值业务</child>
+			<child>宽带（固话）移机</child>
+			<child>固话过户</child>
+			<child>固话呼叫等待</child>
+			<child>气象业务（96121）</child>
+			<child>固话无条件呼叫转移</child>
+			<child>固话无应答呼叫转移</child>
+			<child>固话遇忙呼叫转移</child>
+			<child>七彩铃音</child>
+			<child>主叫彩铃</child>
+			<child>宽带路由服务</child>
+			<child>甜橙理财APP</child>
+			<child>E监控</child>
+			<child>无线宽带（增强版）</child>
+			<child>**133国际回拨（2015年7月1日起执行）</child>
+			<child>手机套餐升档</child>
+			<child>天翼挂失／解挂</child>
+			<child>翼集分</child>
+			<child>心情驿站会员版--Go乐园</child>
+			<child>爱城市</child>
+			<child>人才顾问（社会版）</child>
+			<child>固话缩位拨号</child>
+			<child>950509多方通话</child>
+			<child>改号提醒业务</child>
+			<child>游轮服务</child>
+			<child>空中服务</child>
+			<child>学乐中国</child>
+			<child>网络传真（真实号码版）</child>
+			<child>电信QQ营业厅</child>
+			<child>爆笑百科</child>
+			<child>天翼分享</child>
+			<child>国际及港澳台长途直拨电话</child>
+			<child>固话来电显示</child>
+			<child>天翼好友圈</child>
+			<child>118114务工热线</child>
+			<child>11808长途特惠热线（固定电话）</child>
+			<child>号百招聘</child>
+			<child>澳门落地漫游业务</child>
+			<child>天翼呼叫等待</child>
+			<child>11808长途优惠业务（手机版）</child>
+			<child>16883698声讯话匣子业务</child>
+			<child>国内长途</child>
+			<child>税务e通--网络发票</child>
+			<child>时事漫画报</child>
+			<child>国际卫星电话</child>
+			<child>IDC</child>
+		</node>
+	</node>
+			<node name = "天翼乐享4G套餐">
+			<father>天翼乐享4g</father>
+			</node>
+			<node name = "天翼乐享4G套餐-79元">
+			<father>天翼乐享4g</father>
+			</node>
+			<node name = "天翼乐享4G套餐-99元">
+			<father>天翼乐享4g</father>
+			</node>
+			<node name = "天翼乐享4G套餐-59元">
+			<father>天翼乐享4g</father>
+			</node>
+			<node name = "天翼乐享4G套餐-399元">
+			<father>天翼乐享4g</father>
+			</node>
+			<node name = "天翼乐享4G套餐-499元">
+			<father>天翼乐享4g</father>
+			</node>
+			<node name = "天翼乐享4G套餐-299元">
+			<father>天翼乐享4g</father>
+			</node>
+			<node name = "天翼乐享4G套餐-329元">
+			<father>天翼乐享4g</father>
+			</node>
+			<node name = "天翼乐享4G套餐-229元">
+			<father>天翼乐享4g</father>
+			</node>
+			<node name = "天翼乐享4G套餐-599元">
+			<father>天翼乐享4g</father>
+			</node>
+			<node name = "天翼乐享4G套餐-169元">
+			<father>天翼乐享4g</father>
+			</node>
+			<node name = "天翼乐享4G套餐-199元">
+			<father>天翼乐享4g</father>
+			</node>
+			<node name = "天翼乐享4G套餐-129元">
+			<father>天翼乐享4g</father>
+			</node>
+			<node name = "天翼乐享4G套餐-999元">
+			<father>天翼乐享4g</father>
+			</node>
+			<node name = "天翼4G无线上网卡、上网宝（MiFi）季卡／半年／年卡套餐-季卡（90天）">
+			<father>天翼4G无线上网卡、上网宝（MiFi）季卡／半年／年卡套餐</father>
+			</node>
+			<node name = "天翼4G无线上网卡、上网宝（MiFi）季卡／半年／年卡套餐">
+			<father>天翼4G无线上网卡、上网宝（MiFi）季卡／半年／年卡套餐</father>
+			</node>
+			<node name = "天翼4G无线上网卡、上网宝（MiFi）季卡／半年／年卡套餐-季卡（90天）">
+			<father>天翼4G无线上网卡、上网宝（MiFi）季卡／半年／年卡套餐</father>
+			</node>
+			<node name = "天翼4G无线上网卡、上网宝（MiFi）季卡／半年／年卡套餐-半年卡（180天）">
+			<father>天翼4G无线上网卡、上网宝（MiFi）季卡／半年／年卡套餐</father>
+			</node>
+			<node name = "天翼4G无线上网卡、上网宝（MiFi）季卡／半年／年卡套餐-年卡（365天）">
+			<father>天翼4G无线上网卡、上网宝（MiFi）季卡／半年／年卡套餐</father>
+			</node>
+			<node name = "4G流量卡(流量小王-校园尊享版)">
+			<father>更多</father>
+			</node>
+			<node name = "iFree卡黄金版">
+			<father>更多</father>
+			</node>
+			<node name = "无线宽带（增强版）--流量套餐">
+			<father>更多</father>
+			</node>
+			<node name = "无线宽带（增强版）--流量套餐-300元">
+			<father>更多</father>
+			</node>
+			<node name = "中国电信欢go网站-网龄购机送话费">
+			<father>话费</father>
+			</node>
+			<node name = "网厅、掌厅-办副卡送话费">
+			<father>话费</father>
+			</node>
+			<node name = "网、掌厅、微信-充值元送元话费促销活动">
+			<father>话费</father>
+			</node>
+			<node name = "暑期促销-G流量卡话费促销活动">
+			<father>话费</father>
+			</node>
+			<node name = "天翼生活-宽带续约送话费">
+			<father>话费</father>
+			</node>
+			<node name = "江苏电信掌上营业厅WAP厅、天翼生活、“江苏电信”微信公众号-充话费送话费活动">
+			<father>话费</father>
+			</node>
+			<node name = "江苏电信掌上营业厅WAP厅、天翼生活、“江苏电信”微信公众号-充话费送话费活动">
+			<father>话费</father>
+			</node>
+			<node name = "欢go-手机话费充值.折">
+			<father>话费</father>
+			</node>
+			<node name = "辞旧迎新-天翼大抽奖，狂送购机券、话费、流量">
+			<father>话费</father>
+			</node>
+			<node name = "天翼空间-易漫乐园抽奖赢话费活动">
+			<father>话费</father>
+			</node>
+			<node name = "单产品包年宽带续约提速活动">
+			<father>上网</father>
+			</node>
+			<node name = "aWiFi商户联盟-宽带智能提速">
+			<father>上网</father>
+			</node>
+			<node name = "网厅、掌厅-天翼亲情网免费提">
+			<father>上网</father>
+			</node>
+			<node name = "品牌客户每月赠送10M手机上网流量的优惠活动速活动">
+			<father>上网</father>
+			</node>
+			<node name = "翼支付-甜橙信用随意借“橙意感恩季-橙意免单”活动">
+			<father>业务活动</father>
+			</node>
+			<node name = "翼支付-交费助手送理财特权码活动">
+			<father>业务活动</father>
+			</node>
+			<node name = "翼支付-加油折立减活动">
+			<father>业务活动</father>
+			</node>
+			<node name = "翼支付-水电煤折活动">
+			<father>业务活动</father>
+			</node>
+			<node name = "翼支付-“翼动生活、建行有礼”活动">
+			<father>业务活动</father>
+			</node>
+			<node name = "翼支付-天翼星级客户理财特权活动">
+			<father>业务活动</father>
+			</node>
+			<node name = "翼支付客户端-百度外卖活动">
+			<father>业务活动</father>
+			</node>
+			<node name = "翼支付-橙信生活“木鸟短租”活动">
+			<father>业务活动</father>
+			</node>
+			<node name = "翼支付-橙信生活“印客时光”活动">
+			<father>业务活动</father>
+			</node>
+			<node name = "翼支付-橙信生活“凹凸租车”活动">
+			<father>业务活动</father>
+			</node>
+			<node name = "翼支付-友宝“折购”活动">
+			<father>业务活动</father>
+			</node>
+			<node name = "翼支付甜橙点券-白色情人节活动">
+			<father>业务活动</father>
+			</node>
+			<node name = "翼支付-甜橙理财一元抵一万活动">
+			<father>业务活动</father>
+			</node>
+			<node name = "翼支付甜橙理财A股-开户推荐有礼活动（中信证券）">
+			<father>业务活动</father>
+			</node>
+			<node name = "翼支付-甜橙理财周一优选基金（赚了归你，亏了算我）活动">
+			<father>业务活动</father>
+			</node>
+			<node name = "爱动漫-年馒头君送爱动漫VIP活动">
+			<father>业务活动</father>
+			</node>
+			<node name = "爱动漫-年馒头君送爱动漫VIP活动">
+			<father>业务活动</father>
+			</node>
+			<node name = "爱动漫-订爱动漫VIP送Q币活动">
+			<father>业务活动</father>
+			</node>
+			<node name = "爱动漫-订爱动漫VIP送Q币活动">
+			<father>业务活动</father>
+			</node>
+			<node name = "爱音乐-暑期大抽奖活动">
+			<father>业务活动</father>
+			</node>
+			<node name = "订“爱音乐-故事宝贝畅听包”抽奖活动">
+			<father>业务活动</father>
+			</node>
+			<node name = "爱音乐-欧洲杯足球之星活动">
+			<father>业务活动</father>
+			</node>
+			<node name = "爱音乐-爱听G VIP买一送一，权益时长翻倍活动">
+			<father>业务活动</father>
+			</node>
+			<node name = "天翼视讯财经猜指数活动">
+			<father>业务活动</father>
+			</node>
+			<node name = "天翼视讯-欢乐猴年大迎春，开心芒果又一年活动">
+			<father>业务活动</father>
+			</node>
+			<node name = "天翼空间-易漫乐园抽奖赢话费活动">
+			<father>业务活动</father>
+			</node>
+			<node name = "天翼空间-月签到有礼活动">
+			<father>业务活动</father>
+			</node>
+			<node name = "天翼空间-易乐园积分兑换活动">
+			<father>业务活动</father>
+			</node>
+			<node name = "天翼空间-易商店“娱乐专区-有奖答题”活动">
+			<father>业务活动</father>
+			</node>
+			<node name = "天翼空间-玩转欧洲杯足球游戏活动">
+			<father>业务活动</father>
+			</node>
+			<node name = "天翼空间-唯品会双重专享特惠招募活动">
+			<father>业务活动</father>
+			</node>
+			<node name = "天翼流量800-阿里巴巴流量钱包送流量活动">
+			<father>业务活动</father>
+			</node>
+			<node name = "天翼流量800-百度钱包1分钱专享活动">
+			<father>业务活动</father>
+			</node>
+			<node name = "天翼流量800-九游《笑傲江湖》送流量活动">
+			<father>业务活动</father>
+			</node>
+			<node name = "天翼流量800-流量宝流量红包活动">
+			<father>业务活动</father>
+			</node>
+			<node name = "天翼流量800／流量来了-“蛙鸣健康”送流量活动">
+			<father>业务活动</father>
+			</node>
+			<node name = "天翼流量800-腾讯理财通送流量活动">
+			<father>业务活动</father>
+			</node>
+			<node name = "天翼流量800-蜗牛公司《横行冒险王》手游送流量活动">
+			<father>业务活动</father>
+			</node>
+			<node name = "天翼流量800-东方财富送100M活动（第二期）">
+			<father>业务活动</father>
+			</node>
+			<node name = "天翼流量800-华泰证券新开户最高豪享1.5个G流量">
+			<father>业务活动</father>
+			</node>
+			<node name = "单产品宽带包天版">
+			<father>更多</father>
+			</node>
+			<node name = "天翼老客户网龄特惠购机活动">
+			<father>更多</father>
+			</node>
+			<node name = "宽带放价 畅快一夏-单宽带包年优惠">
+			<father>更多</father>
+			</node>
+			<node name = "光纤改造费优惠活动">
+			<father>更多</father>
+			</node>
+			<node name = "乐享4G存折计划">
+			<father>更多</father>
+			</node>
+			<node name = "天翼年货限时特惠-直升百兆活动">
+			<father>更多</father>
+			</node>
+			<node name = "中国电信欢go网站-“充值返利FUN开玩”活动">
+			<father>更多</father>
+			</node>
+			<node name = "跨年盛宴、TCL彩电专场促销活动">
+			<father>更多</father>
+			</node>
+			<node name = "看“书旗小说”流量免费送">
+			<father>更多</father>
+			</node>
+			<node name = "流量A计划-500M免费专区活动">
+			<father>更多</father>
+			</node>
+			<node name = "净网卫士30天免费体验活动">
+			<father>更多</father>
+			</node>
+			<node name = "网银充值交费优惠活动">
+			<father>更多</father>
+			</node>
+			<node name = "营业厅-iPhone SE合约计划">
+			<father>更多</father>
+			</node>
+			<node name = "充值100元送1000分钟通话活动">
+			<father>更多</father>
+			</node>
+			<node name = "4G首发上市活动">
+			<father>更多</father>
+			</node>
+			<node name = "全网通任性付活动">
+			<father>更多</father>
+			</node>
+			<node name = "4G乐享合约礼包8／10倍企业担保（政企）">
+			<father>更多</father>
+			</node>
+			<node name = "iPhone6s、iPhone6s Plus合约计划">
+			<father>更多</father>
+			</node>
+			<node name = "iPhone6、iPhone6 Plus合约计划">
+			<father>更多</father>
+			</node>
+			<node name = "网厅积分抵现金购机">
+			<father>更多</father>
+			</node>
+			<node name = "“疯狂500M”免流量下载活动">
+			<father>更多</father>
+			</node>
+			<node name = "网厅、天翼生活-iPhone6s/6s Plus活动">
+			<father>更多</father>
+			</node>
+			<node name = "江苏电信网上营业厅4G专区活动">
+			<father>更多</father>
+			</node>
+			<node name = "网厅、掌厅-华为P9合约计划">
+			<father>更多</father>
+			</node>
+			<node name = "网厅、掌厅-乐视2代合约计划">
+			<father>更多</father>
+			</node>
+			<node name = "流量宝-免流量下载客户端活动">
+			<father>更多</father>
+			</node>
+			<node name = "网厅、掌厅-三星S7合约促销活动">
+			<father>更多</father>
+			</node>
+			<node name = "订购优酷视频特权包送流量">
+			<father>更多</father>
+			</node>
+			<node name = "中国电信欢go网站-“春暖花开日”新入网存100送100活动">
+			<father>更多</father>
+			</node>
+			<node name = "iFree以老带新活动">
+			<father>更多</father>
+			</node>
+			<node name = "“心系天下”三星W2015旗舰智能手机礼包活动">
+			<father>更多</father>
+			</node>
+			<node name = "宽带放价 畅快一夏-路由器宽带大礼包">
+			<father>更多</father>
+			</node>
+			<node name = "五一活动-集码抢流量促销活动">
+			<father>更多</father>
+			</node>
+			<node name = "微信-流量biu biu biu活动">
+			<father>更多</father>
+			</node>
+			<node name = "微信--领6G流量活动">
+			<father>更多</father>
+			</node>
+			<node name = "中国电信欢go网站、天翼生活-3G升4G专区送6G流量活动">
+			<father>更多</father>
+			</node>
+			<node name = "欢go客户端-手机早市活动">
+			<father>更多</father>
+			</node>
+			<node name = "4G乐享合约礼包8／10倍企业担保（政企）">
+			<father>更多</father>
+			</node>
+			<node name = "189.cn年终盛典-宽带红包优惠活动">
+			<father>更多</father>
+			</node>
+			<node name = "中国电信欢go网站-办iTV抽奖活动">
+			<father>更多</father>
+			</node>
+			<node name = "翼汇财-买理财送流量活动">
+			<father>更多</father>
+			</node>
+			<node name = "天翼流量800-阿里巴巴流量钱包送流量活动">
+			<father>更多</father>
+			</node>
+			<node name = "iPad air2首发上市活动">
+			<father>更多</father>
+			</node>
+			<node name = "中国电信欢go网站-老客户办合约机活动">
+			<father>更多</father>
+			</node>
+			<node name = "微视窗-流量红包活动">
+			<father>更多</father>
+			</node>
+			<node name = "欢go客户端-iPhone SE合约计划">
+			<father>更多</father>
+			</node>
+			<node name = "2016暑期促销-金榜题名大礼包活动">
+			<father>更多</father>
+			</node>
+			<node name = "中国电信欢go网站-流量月包9折购活动">
+			<father>更多</father>
+			</node>
+			<node name = "天翼生活、微信-欧洲杯竞猜，流量翻倍送活动">
+			<father>更多</father>
+			</node>
+			<node name = "UC客服中心微信刮刮卡活动">
+			<father>更多</father>
+			</node>
+			<node name = "中国电信客服-关机一小时促销活动">
+			<father>更多</father>
+			</node>
+			<node name = "iFree特惠日流量包抢购活动">
+			<father>更多</father>
+			</node>
+			<node name = "爱电视乐享包体验活动">
+			<father>更多</father>
+			</node>
+			<node name = "中国电信欢go网站-宽带续约活动">
+			<father>更多</father>
+			</node>
+			<node name = "宽带放价 畅快一夏-融合宽带礼包活动">
+			<father>更多</father>
+			</node>
+			<node name = "宽带放价 畅快一夏-电信电视宽带活动">
+			<father>更多</father>
+			</node>
+			<node name = "天翼快乐夺宝活动">
+			<father>更多</father>
+			</node>
+			<node name = "微信-“4G欢乐送”活动">
+			<father>更多</father>
+			</node>
+			<node name = "爱看4G-新客户专享“欢乐7+7”活动">
+			<father>更多</father>
+			</node>
+			<node name = "财经最前线-“浓情缤纷惠，好礼送不停”活动">
+			<father>更多</father>
+			</node>
+			<node name = "中国电信欢go网站、欢go客户端-3G升4G活动">
+			<father>更多</father>
+			</node>
+			<node name = "宽带放价 畅快一夏-乐享五折合约宽带优惠购">
+			<father>更多</father>
+			</node>
+			<node name = "爱动漫--神界漫画精品包">
+			<father>爱动漫</father>
+			</node>
+			<node name = "爱动漫-爆笑精品包">
+			<father>爱动漫</father>
+			</node>
+			<node name = "爱动漫-炫漫专题包">
+			<father>爱动漫</father>
+			</node>
+			<node name = "爱动漫专题包-北京奇乐">
+			<father>爱动漫</father>
+			</node>
+			<node name = "爱动漫-漫客专题包">
+			<father>爱动漫</father>
+			</node>
+			<node name = "爱动漫-逗趣专题包">
+			<father>爱动漫</father>
+			</node>
+			<node name = "爱动漫热门精品包">
+			<father>爱动漫</father>
+			</node>
+			<node name = "爱动漫“专题包-数联领航”">
+			<father>爱动漫</father>
+			</node>
+			<node name = "爱动漫-欢乐家庭精品包">
+			<father>爱动漫</father>
+			</node>
+			<node name = "爱动漫-漫花筒精品包">
+			<father>爱动漫</father>
+			</node>
+			<node name = "爱动漫-漫视界专题包">
+			<father>爱动漫</father>
+			</node>
+			<node name = "爱动漫-台湾文化精品包">
+			<father>爱动漫</father>
+			</node>
+			<node name = "爱动漫-漫乐吧专题包">
+			<father>爱动漫</father>
+			</node>
+			<node name = "爱动漫-悬疑精品包">
+			<father>爱动漫</father>
+			</node>
+			<node name = "爱动漫-神偷妙探精品包">
+			<father>爱动漫</father>
+			</node>
+			<node name = "爱动漫-唯美爱情精品包">
+			<father>爱动漫</father>
+			</node>
+			<node name = "爱动漫纷享包实体优惠卡">
+			<father>爱动漫</father>
+			</node>
+			<node name = "爱动漫-早教动漫精品包">
+			<father>爱动漫</father>
+			</node>
+			<node name = "爱动漫-新番速递精品包">
+			<father>爱动漫</father>
+			</node>
+			<node name = "爱动漫-动漫宅急送专题包">
+			<father>爱动漫</father>
+			</node>
+			<node name = "爱动漫-魔法爱情精品包">
+			<father>爱动漫</father>
+			</node>
+			<node name = "爱动漫-精品包">
+			<father>爱动漫</father>
+			</node>
+			<node name = "爱动漫-新华网专题包">
+			<father>爱动漫</father>
+			</node>
+			<node name = "爱动漫-剑侠情缘精品包">
+			<father>爱动漫</father>
+			</node>
+			<node name = "爱动漫-首映大电影精品包">
+			<father>爱动漫</father>
+			</node>
+			<node name = "爱动漫-芒果精品包">
+			<father>爱动漫</father>
+			</node>
+			<node name = "爱动漫-异域古侠精品包">
+			<father>爱动漫</father>
+			</node>
+			<node name = "爱动漫-北京中童专题包">
+			<father>爱动漫</father>
+			</node>
+			<node name = "爱动漫-国学精粹精品包">
+			<father>爱动漫</father>
+			</node>
+			<node name = "爱动漫-奇趣精品包">
+			<father>爱动漫</father>
+			</node>
+			<node name = "爱动漫-欢乐童年精品包">
+			<father>爱动漫</father>
+			</node>
+			<node name = "爱动漫-国漫精品包">
+			<father>爱动漫</father>
+			</node>
+			<node name = "爱动漫-画客原创精品包">
+			<father>爱动漫</father>
+			</node>
+			<node name = "爱动漫-元气漫动作精品包">
+			<father>爱动漫</father>
+			</node>
+			<node name = "爱动漫-热血江湖精品包">
+			<father>爱动漫</father>
+			</node>
+			<node name = "爱动漫-经典奇幻精品包">
+			<father>爱动漫</father>
+			</node>
+			<node name = "爱动漫-经典大作精品包">
+			<father>爱动漫</father>
+			</node>
+			<node name = "爱动漫--百视动漫精品包">
+			<father>爱动漫</father>
+			</node>
+			<node name = "爱动漫-哈哈画报精品包">
+			<father>爱动漫</father>
+			</node>
+			<node name = "爱动漫-恒梦圆专题包">
+			<father>爱动漫</father>
+			</node>
+			<node name = "爱动漫-娱乐漫享精品包">
+			<father>爱动漫</father>
+			</node>
+			<node name = "爱动漫--智趣乐园精品包">
+			<father>爱动漫</father>
+			</node>
+			<node name = "爱动漫-西子精品包">
+			<father>爱动漫</father>
+			</node>
+			<node name = "爱动漫专题包-炫影视频">
+			<father>爱动漫</father>
+			</node>
+			<node name = "爱动漫-韩漫精品包">
+			<father>爱动漫</father>
+			</node>
+			<node name = "爱动漫-青春武侠精品包">
+			<father>爱动漫</father>
+			</node>
+			<node name = "爱动漫动作精品包">
+			<father>爱动漫</father>
+			</node>
+			<node name = "爱动漫-魔法妈妈讲故事精品包">
+			<father>爱动漫</father>
+			</node>
+			<node name = "爱动漫-雪域趣漫精品包">
+			<father>爱动漫</father>
+			</node>
+			<node name = "爱动漫-都市漫话精品包">
+			<father>爱动漫</father>
+			</node>
+			<node name = "爱动漫-快乐家庭精品包">
+			<father>爱动漫</father>
+			</node>
+			<node name = "爱动漫-台湾动漫名家精品包">
+			<father>爱动漫</father>
+			</node>
+			<node name = "爱动漫-美丽传说专题包">
+			<father>爱动漫</father>
+			</node>
+			<node name = "爱动漫-动漫小铺精品包">
+			<father>爱动漫</father>
+			</node>
+			<node name = "爱动漫-地瓜动漫">
+			<father>爱动漫</father>
+			</node>
+			<node name = "爱动漫-动漫大电影">
+			<father>爱动漫</father>
+			</node>
+			<node name = "爱动漫-迅雷白金会员">
+			<father>爱动漫</father>
+			</node>
+			<node name = "爱动漫">
+			<father>爱动漫</father>
+			</node>
+			<node name = "爱动漫-快乐一家">
+			<father>爱动漫</father>
+			</node>
+			<node name = "爱动漫-博雅斗地主白银月卡">
+			<father>爱动漫</father>
+			</node>
+			<node name = "爱动漫VIP">
+			<father>爱动漫</father>
+			</node>
+			<node name = "翼支付手机钱包">
+			<father>翼支付</father>
+			</node>
+			<node name = "翼支付">
+			<father>翼支付</father>
+			</node>
+			<node name = "翼支付客户端-红包应用">
+			<father>翼支付</father>
+			</node>
+			<node name = "翼支付手机钱包">
+			<father>翼支付</father>
+			</node>
+			<node name = "翼支付橙分期-喵卡">
+			<father>翼支付</father>
+			</node>
+			<node name = "翼支付-当面付">
+			<father>翼支付</father>
+			</node>
+			<node name = "翼支付-手机交费易业务">
+			<father>翼支付</father>
+			</node>
+			<node name = "翼支付保险超市应用">
+			<father>翼支付</father>
+			</node>
+			<node name = "翼支付手机客户端信用卡还款应用">
+			<father>翼支付</father>
+			</node>
+			<node name = "翼支付个人账户业务">
+			<father>翼支付</father>
+			</node>
+			<node name = "翼支付甜橙信用随意借">
+			<father>翼支付</father>
+			</node>
+			<node name = "翼支付甜橙理财">
+			<father>翼支付</father>
+			</node>
+			<node name = "翼支付收款码（二维码）支付">
+			<father>翼支付</father>
+			</node>
+			<node name = "翼支付客户端-购（全国）火车票应用">
+			<father>翼支付</father>
+			</node>
+			<node name = "翼支付客户端-全球购">
+			<father>翼支付</father>
+			</node>
+			<node name = "翼支付卡">
+			<father>翼支付</father>
+			</node>
+			<node name = "翼支付特权码">
+			<father>翼支付</father>
+			</node>
+			<node name = "翼支付客户端-百度糯米应用">
+			<father>翼支付</father>
+			</node>
+			<node name = "翼支付-甜橙白条">
+			<father>翼支付</father>
+			</node>
+			<node name = "翼支付客户端-百度外卖应用">
+			<father>翼支付</father>
+			</node>
+			<node name = "翼支付企业账户">
+			<father>翼支付</father>
+			</node>
+			<node name = "翼支付-甜橙小贷">
+			<father>翼支付</father>
+			</node>
+			<node name = "翼支付个人号码转账功能">
+			<father>翼支付</father>
+			</node>
+			<node name = "翼支付-甜橙理财e股通">
+			<father>翼支付</father>
+			</node>
+			<node name = "翼支付客户端-购电影票应用">
+			<father>翼支付</father>
+			</node>
+			<node name = "翼支付甜橙保险-防癌险">
+			<father>翼支付</father>
+			</node>
+			<node name = "翼支付民生应用">
+			<father>翼支付</father>
+			</node>
+			<node name = "翼支付甜橙保险-国华意外伤害险、国华爱心重大疾病险">
+			<father>翼支付</father>
+			</node>
+			<node name = "翼支付-交费助手业务">
+			<father>翼支付</father>
+			</node>
+			<node name = "翼支付添益宝">
+			<father>翼支付</father>
+			</node>
+			<node name = "翼支付-校园一卡通">
+			<father>翼支付</father>
+			</node>
+			<node name = "翼支付-生活缴费应用">
+			<father>翼支付</father>
+			</node>
+			<node name = "翼支付-甜橙快贷之拍拍贷">
+			<father>翼支付</father>
+			</node>
+			<node name = "翼支付甜橙理财-专家托管">
+			<father>翼支付</father>
+			</node>
+			<node name = "翼支付客户端-交通罚款应用">
+			<father>翼支付</father>
+			</node>
+			<node name = "翼支付周边商户（安卓版）">
+			<father>翼支付</father>
+			</node>
+			<node name = "翼支付客户端手机充值应用">
+			<father>翼支付</father>
+			</node>
+			<node name = "翼支付爱心捐赠应用">
+			<father>翼支付</father>
+			</node>
+			<node name = "（视频）翼支付产品及应用">
+			<father>翼支付</father>
+			</node>
+			<node name = "天翼闲时流量包">
+			<father>流量</father>
+			</node>
+			<node name = "微信-流量礼包">
+			<father>流量</father>
+			</node>
+			<node name = "天翼手机上网流量包">
+			<father>流量</father>
+			</node>
+			<node name = "天翼G畅聊流量包">
+			<father>流量</father>
+			</node>
+			<node name = "天翼G升级流量包">
+			<father>流量</father>
+			</node>
+			<node name = "可视通话定向流量包">
+			<father>流量</father>
+			</node>
+			<node name = "流量便利店">
+			<father>流量</father>
+			</node>
+			<node name = "流量family（家庭）共享包">
+			<father>流量</father>
+			</node>
+			<node name = "天翼手机流量加餐包">
+			<father>流量</father>
+			</node>
+			<node name = "天翼天省内流量包">
+			<father>流量</father>
+			</node>
+			<node name = "天翼天省内流量包">
+			<father>流量</father>
+			</node>
+			<node name = "腾讯视频元定向流量包">
+			<father>流量</father>
+			</node>
+			<node name = "天翼天全国流量包">
+			<father>流量</father>
+			</node>
+			<node name = "云分享定向流量包">
+			<father>流量</father>
+			</node>
+			<node name = "多米音乐定向流量包">
+			<father>流量</father>
+			</node>
+			<node name = "优酷定向流量包">
+			<father>流量</father>
+			</node>
+			<node name = "天翼手机流量季包、半年包、年包">
+			<father>流量</father>
+			</node>
+			<node name = "网易游戏定向流量包">
+			<father>流量</father>
+			</node>
+			<node name = "跟谁学定向流量包">
+			<father>流量</father>
+			</node>
+			<node name = "爱玩G定向流量包">
+			<father>流量</father>
+			</node>
+			<node name = "国际及港台漫游包天流量包">
+			<father>流量</father>
+			</node>
+			<node name = "爱听G定向流量包">
+			<father>流量</father>
+			</node>
+			<node name = "爱看G定向流量包">
+			<father>流量</father>
+			</node>
+			<node name = "流量加油站">
+			<father>流量</father>
+			</node>
+			<node name = "腾讯手机游戏定向流量包">
+			<father>流量</father>
+			</node>
+			<node name = "爱音乐-听听畅听包">
+			<father>爱音乐</father>
+			</node>
+			<node name = "爱音乐-一说畅听包">
+			<father>爱音乐</father>
+			</node>
+			<node name = "爱音乐-故事宝贝畅听包">
+			<father>爱音乐</father>
+			</node>
+			<node name = "爱音乐-音悦台畅听包">
+			<father>爱音乐</father>
+			</node>
+			<node name = "爱音乐-高品质音乐包">
+			<father>爱音乐</father>
+			</node>
+			<node name = "爱音乐-“爱听+”会员畅听包">
+			<father>爱音乐</father>
+			</node>
+			<node name = "爱音乐-爱听G客户端">
+			<father>爱音乐</father>
+			</node>
+			<node name = "爱音乐卡拉OK">
+			<father>爱音乐</father>
+			</node>
+			<node name = "爱音乐会员">
+			<father>爱音乐</father>
+			</node>
+			<node name = "爱音乐">
+			<father>爱音乐</father>
+			</node>
+			<node name = "数字音乐下载（爱音乐全曲下载）">
+			<father>爱音乐</father>
+			</node>
+			<node name = "爱音乐全能听">
+			<father>爱音乐</father>
+			</node>
+			<node name = "爱音乐-音乐名片">
+			<father>爱音乐</father>
+			</node>
+			<node name = "中国电信爱音乐个性化彩铃">
+			<father>爱音乐</father>
+			</node>
+			<node name = "爱音乐星座幸运铃">
+			<father>爱音乐</father>
+			</node>
+			<node name = "爱游戏定向流量包">
+			<father>爱游戏</father>
+			</node>
+			<node name = "爱游戏-乐游达人包、乐游狂人包">
+			<father>爱游戏</father>
+			</node>
+			<node name = "爱游戏-冒泡游戏包">
+			<father>爱游戏</father>
+			</node>
+			<node name = "爱游戏-酷玩游戏包">
+			<father>爱游戏</father>
+			</node>
+			<node name = "爱游戏-腾讯包月产品">
+			<father>爱游戏</father>
+			</node>
+			<node name = "爱游戏-世纪佳缘包月业务">
+			<father>爱游戏</father>
+			</node>
+			<node name = "爱游戏-全民游戏包">
+			<father>爱游戏</father>
+			</node>
+			<node name = "爱游戏-超凡游戏包">
+			<father>爱游戏</father>
+			</node>
+			<node name = "爱游戏-爱玩G客户端">
+			<father>爱游戏</father>
+			</node>
+			<node name = "爱游戏">
+			<father>爱游戏</father>
+			</node>
+			<node name = "爱游戏-《苹果帮》手机报业务">
+			<father>爱游戏</father>
+			</node>
+			<node name = "爱游戏-《G时代》手机报业务">
+			<father>爱游戏</father>
+			</node>
+			<node name = "爱游戏-《游戏天下》手机报业务">
+			<father>爱游戏</father>
+			</node>
+			<node name = "高清iTV">
+			<father>itv</father>
+			</node>
+			<node name = "iTV-K超清专区">
+			<father>itv</father>
+			</node>
+			<node name = "iTV酒店餐饮包间">
+			<father>itv</father>
+			</node>
+			<node name = "iTV音乐秀-卡拉OK至尊包">
+			<father>itv</father>
+			</node>
+			<node name = "iTV影视付费点播业务（百视通）">
+			<father>itv</father>
+			</node>
+			<node name = "iTV影视付费点播业务（江苏广电）">
+			<father>itv</father>
+			</node>
+			<node name = "iTV江苏好味道">
+			<father>itv</father>
+			</node>
+			<node name = "iTV教育专区">
+			<father>itv</father>
+			</node>
+			<node name = "iTV义方电视学堂">
+			<father>itv</father>
+			</node>
+			<node name = "iTV-最纪实">
+			<father>itv</father>
+			</node>
+			<node name = "iTV天才课堂">
+			<father>itv</father>
+			</node>
+			<node name = "iTV电影看吧">
+			<father>itv</father>
+			</node>
+			<node name = "iTV点歌送祝福（又叫点歌台）">
+			<father>itv</father>
+			</node>
+			<node name = "天翼视讯凤凰VIP跨屏产品包">
+			<father>天翼视讯</father>
+			</node>
+			<node name = "天翼视讯-爱看G客户端">
+			<father>天翼视讯</father>
+			</node>
+			<node name = "天翼视讯（PC）">
+			<father>天翼视讯</father>
+			</node>
+			<node name = "天翼视讯（手机影视全国版）">
+			<father>天翼视讯</father>
+			</node>
+			<node name = "天翼视讯-捷成华视网聚">
+			<father>天翼视讯</father>
+			</node>
+			<node name = "天翼视讯-股票老左">
+			<father>天翼视讯</father>
+			</node>
+			<node name = "号码百事通理财客户端">
+			<father>号码百事通</father>
+			</node>
+			<node name = "号码百事通-“亲在哪”（个人版）">
+			<father>号码百事通</father>
+			</node>
+			<node name = "号码百事通“养生365”">
+			<father>号码百事通</father>
+			</node>
+			<node name = "号码百事通心理顾问">
+			<father>号码百事通</father>
+			</node>
+			<node name = "天翼导航海外版-远游">
+			<father>天翼导航、</father>
+			</node>
+			<node name = "天翼导航车小秘">
+			<father>天翼导航、</father>
+			</node>
+			<node name = "天翼导航">
+			<father>天翼导航、</father>
+			</node>
+			<node name = "189邮箱">
+			<father>189邮箱</father>
+			</node>
+			<node name = "189邮箱手机账单（产品级）">
+			<father>189邮箱</father>
+			</node>
+			<node name = "无线宽带WLAN（天翼宽带WiFi）业务">
+			<father>天翼宽带</father>
+			</node>
+			<node name = "天翼空间">
+			<father>天翼空间</father>
+			</node>
+			<node name = "天翼阅读">
+			<father>天翼阅读</father>
+			</node>
+			<node name = "天翼乐享畅享包">
+			<father>更多</father>
+			</node>
+			<node name = "短信包">
+			<father>更多</father>
+			</node>
+			<node name = "天翼乐视视频特权包">
+			<father>更多</father>
+			</node>
+			<node name = "4G主副卡业务（乐享、飞Young4G套餐专享）">
+			<father>更多</father>
+			</node>
+			<node name = "翼通宝">
+			<father>更多</father>
+			</node>
+			<node name = "优酷联名卡特权包">
+			<father>更多</father>
+			</node>
+			<node name = "优酷视频特权包">
+			<father>更多</father>
+			</node>
+			<node name = "外勤助手（又称外勤手机、外勤e通）">
+			<father>更多</father>
+			</node>
+			<node name = "国际及港澳台漫游（国际漫游）【2015年7月1日起执行】">
+			<father>更多</father>
+			</node>
+			<node name = "天翼跨省实时补换卡">
+			<father>更多</father>
+			</node>
+			<node name = "车管专家">
+			<father>更多</father>
+			</node>
+			<node name = "天翼国际卡">
+			<father>更多</father>
+			</node>
+			<node name = "翼校通">
+			<father>更多</father>
+			</node>
+			<node name = "QQ业务">
+			<father>更多</father>
+			</node>
+			<node name = "电话收音机">
+			<father>更多</father>
+			</node>
+			<node name = "军翼网（省）">
+			<father>更多</father>
+			</node>
+			<node name = "国际及港澳台长途">
+			<father>更多</father>
+			</node>
+			<node name = "天翼补换卡">
+			<father>更多</father>
+			</node>
+			<node name = "宽带停机保号">
+			<father>更多</father>
+			</node>
+			<node name = "201电话卡">
+			<father>更多</father>
+			</node>
+			<node name = "江苏银行天翼联名信用卡">
+			<father>更多</father>
+			</node>
+			<node name = "爱玩4G加装包-高级VIP">
+			<father>更多</father>
+			</node>
+			<node name = "爱看4G加装包-精品大片">
+			<father>更多</father>
+			</node>
+			<node name = "宽带智能提速包">
+			<father>更多</father>
+			</node>
+			<node name = "微视窗">
+			<father>更多</father>
+			</node>
+			<node name = "果果乐园专题包">
+			<father>更多</father>
+			</node>
+			<node name = "动漫彩信5元包产品">
+			<father>更多</father>
+			</node>
+			<node name = "翼起来（客户版）客户端">
+			<father>更多</father>
+			</node>
+			<node name = "天翼校园毕业生漫游包">
+			<father>更多</father>
+			</node>
+			<node name = "动漫爱秀（天翼爱秀动漫包）">
+			<father>更多</father>
+			</node>
+			<node name = "潮流快递铃音盒／特惠包">
+			<father>更多</father>
+			</node>
+			<node name = "A计划12元特色包">
+			<father>更多</father>
+			</node>
+			<node name = "天翼生活-江苏电信掌上营业厅客户端">
+			<father>更多</father>
+			</node>
+			<node name = "天翼腾讯视频手机">
+			<father>更多</father>
+			</node>
+			<node name = "IC卡公用电话">
+			<father>更多</father>
+			</node>
+			<node name = "游戏来了">
+			<father>更多</father>
+			</node>
+			<node name = "翼机通">
+			<father>更多</father>
+			</node>
+			<node name = "欢go客户端">
+			<father>更多</father>
+			</node>
+			<node name = "协同通信">
+			<father>更多</father>
+			</node>
+			<node name = "天翼手机上网">
+			<father>更多</father>
+			</node>
+			<node name = "天翼呼叫转移（遇忙、无条件、无人应答、不可及）">
+			<father>更多</father>
+			</node>
+			<node name = "中国电信掌上营业厅客户端">
+			<father>更多</father>
+			</node>
+			<node name = "智机通">
+			<father>更多</father>
+			</node>
+			<node name = "农技宝">
+			<father>更多</father>
+			</node>
+			<node name = "翼起玩">
+			<father>更多</father>
+			</node>
+			<node name = "微信公众号-中国电信江苏客服">
+			<father>更多</father>
+			</node>
+			<node name = "云加速">
+			<father>更多</father>
+			</node>
+			<node name = "宽带星空游">
+			<father>更多</father>
+			</node>
+			<node name = "氧气听书">
+			<father>更多</father>
+			</node>
+			<node name = "天翼客服">
+			<father>更多</father>
+			</node>
+			<node name = "智宽生活（手机版）">
+			<father>更多</father>
+			</node>
+			<node name = "号百地图">
+			<father>更多</father>
+			</node>
+			<node name = "天翼博客">
+			<father>更多</father>
+			</node>
+			<node name = "号百时代院线">
+			<father>更多</father>
+			</node>
+			<node name = "智慧社区-社区应用">
+			<father>更多</father>
+			</node>
+			<node name = "健康心翼">
+			<father>更多</father>
+			</node>
+			<node name = "明星播报">
+			<father>更多</father>
+			</node>
+			<node name = "工商通">
+			<father>更多</father>
+			</node>
+			<node name = "移动号百">
+			<father>更多</father>
+			</node>
+			<node name = "天翼卫士">
+			<father>更多</father>
+			</node>
+			<node name = "智慧社区-综治应用">
+			<father>更多</father>
+			</node>
+			<node name = "天翼铃音秀">
+			<father>更多</father>
+			</node>
+			<node name = "号百地图个人版-出行通">
+			<father>更多</father>
+			</node>
+			<node name = "天翼对讲">
+			<father>更多</father>
+			</node>
+			<node name = "天翼地图">
+			<father>更多</father>
+			</node>
+			<node name = "挂机短信">
+			<father>更多</father>
+			</node>
+			<node name = "位途通家庭版（爱家在线）">
+			<father>更多</father>
+			</node>
+			<node name = "星空极速">
+			<father>更多</father>
+			</node>
+			<node name = "宽带自助排障子应用">
+			<father>更多</father>
+			</node>
+			<node name = "天翼闻道读报">
+			<father>更多</father>
+			</node>
+			<node name = "爱冲印">
+			<father>更多</father>
+			</node>
+			<node name = "天翼云／天翼云盘（集团）">
+			<father>更多</father>
+			</node>
+			<node name = "天翼来电免打扰">
+			<father>更多</father>
+			</node>
+			<node name = "彩信业务">
+			<father>更多</father>
+			</node>
+			<node name = "位途通商客版">
+			<father>更多</father>
+			</node>
+			<node name = "易信">
+			<father>更多</father>
+			</node>
+			<node name = "天气预报">
+			<father>更多</father>
+			</node>
+			<node name = "天翼看店／手机看店">
+			<father>更多</father>
+			</node>
+			<node name = "天翼俱乐部阅读权益">
+			<father>更多</father>
+			</node>
+			<node name = "国际及港澳台数据漫游（2015年7月1日起执行）">
+			<father>更多</father>
+			</node>
+			<node name = "天翼云盾">
+			<father>更多</father>
+			</node>
+			<node name = "aWiFi">
+			<father>更多</father>
+			</node>
+			<node name = "爱看4G会员券">
+			<father>更多</father>
+			</node>
+			<node name = "电脑保姆（集团）">
+			<father>更多</father>
+			</node>
+			<node name = "4G-NFC">
+			<father>更多</father>
+			</node>
+			<node name = "爱看4G-VIP会员">
+			<father>更多</father>
+			</node>
+			<node name = "卫星移动电话业务">
+			<father>更多</father>
+			</node>
+			<node name = "虚拟主机">
+			<father>更多</father>
+			</node>
+			<node name = "爱电影俱乐部">
+			<father>更多</father>
+			</node>
+			<node name = "铃音盒">
+			<father>更多</father>
+			</node>
+			<node name = "天翼云桌面">
+			<father>更多</father>
+			</node>
+			<node name = "天翼语音优先">
+			<father>更多</father>
+			</node>
+			<node name = "数字医院">
+			<father>更多</father>
+			</node>
+			<node name = "母婴乐园">
+			<father>更多</father>
+			</node>
+			<node name = "天翼院线通">
+			<father>更多</father>
+			</node>
+			<node name = "旺铺助手（招财宝）">
+			<father>更多</father>
+			</node>
+			<node name = "掌财宝手机应用">
+			<father>更多</father>
+			</node>
+			<node name = "爱秀动感彩铃">
+			<father>更多</father>
+			</node>
+			<node name = "田园快讯">
+			<father>更多</father>
+			</node>
+			<node name = "天翼健康顾问（号百健康顾问）">
+			<father>更多</father>
+			</node>
+			<node name = "爱优惠-美食">
+			<father>更多</father>
+			</node>
+			<node name = "星图">
+			<father>更多</father>
+			</node>
+			<node name = "11800电话伴我行">
+			<father>更多</father>
+			</node>
+			<node name = "翼求职">
+			<father>更多</father>
+			</node>
+			<node name = "短信全能搜">
+			<father>更多</father>
+			</node>
+			<node name = "“百事搜”客户端">
+			<father>更多</father>
+			</node>
+			<node name = "彩铃管家">
+			<father>更多</father>
+			</node>
+			<node name = "天翼爱秀">
+			<father>更多</father>
+			</node>
+			<node name = "短信回执（增强版）">
+			<father>更多</father>
+			</node>
+			<node name = "云主机">
+			<father>更多</father>
+			</node>
+			<node name = "翼通宝学生版（智能学生证）">
+			<father>更多</father>
+			</node>
+			<node name = "电话对对碰">
+			<father>更多</father>
+			</node>
+			<node name = "双城通（曾用名：一卡双号）">
+			<father>更多</father>
+			</node>
+			<node name = "点对点短信">
+			<father>更多</father>
+			</node>
+			<node name = "健康顾问（固话版）">
+			<father>更多</father>
+			</node>
+			<node name = "爱冲印会员套餐业务">
+			<father>更多</father>
+			</node>
+			<node name = "手机阅读客户端（酷炫版）">
+			<father>更多</father>
+			</node>
+			<node name = "商旅服务">
+			<father>更多</father>
+			</node>
+			<node name = "爱乐点">
+			<father>更多</father>
+			</node>
+			<node name = "宽带助手-国际快车">
+			<father>更多</father>
+			</node>
+			<node name = "综合办公（网络版）">
+			<father>更多</father>
+			</node>
+			<node name = "财经最前线">
+			<father>更多</father>
+			</node>
+			<node name = "114点点洗车卡">
+			<father>更多</father>
+			</node>
+			<node name = "“炫动梦想”音乐盒">
+			<father>更多</father>
+			</node>
+			<node name = "校园服务助手">
+			<father>更多</father>
+			</node>
+			<node name = "健康随行">
+			<father>更多</father>
+			</node>
+			<node name = "陪伴客户端">
+			<father>更多</father>
+			</node>
+			<node name = "位途通2.0">
+			<father>更多</father>
+			</node>
+			<node name = "彩铃小剪刀">
+			<father>更多</father>
+			</node>
+			<node name = "天翼亲情网">
+			<father>更多</father>
+			</node>
+			<node name = "国内漫游">
+			<father>更多</father>
+			</node>
+			<node name = "宽带卫星业务">
+			<father>更多</father>
+			</node>
+			<node name = "国际漫游权限辅助开通功能">
+			<father>更多</father>
+			</node>
+			<node name = "智慧云书院">
+			<father>更多</father>
+			</node>
+			<node name = "互联星空电脑版">
+			<father>更多</father>
+			</node>
+			<node name = "法律顾问">
+			<father>更多</father>
+			</node>
+			<node name = "爱秀铃音">
+			<father>更多</father>
+			</node>
+			<node name = "在线防杀毒墙">
+			<father>更多</father>
+			</node>
+			<node name = "号百心情驿站">
+			<father>更多</father>
+			</node>
+			<node name = "号百手机名片---全省">
+			<father>更多</father>
+			</node>
+			<node name = "加密通信">
+			<father>更多</father>
+			</node>
+			<node name = "千兆浏览器">
+			<father>更多</father>
+			</node>
+			<node name = "卫星国际专线业务">
+			<father>更多</father>
+			</node>
+			<node name = "天翼百科">
+			<father>更多</father>
+			</node>
+			<node name = "天翼社区">
+			<father>更多</father>
+			</node>
+			<node name = "WiFi国际及港澳台漫出业务">
+			<father>更多</father>
+			</node>
+			<node name = "中国电信账单支付">
+			<father>更多</father>
+			</node>
+			<node name = "理财顾问">
+			<father>更多</father>
+			</node>
+			<node name = "寻Ta">
+			<father>更多</father>
+			</node>
+			<node name = "短信助手（天翼）">
+			<father>更多</father>
+			</node>
+			<node name = "手机卡（OTA卡）">
+			<father>更多</father>
+			</node>
+			<node name = "互联星空WAP（互联星空手机版）">
+			<father>更多</father>
+			</node>
+			<node name = "中国电信号百短信全能搜">
+			<father>更多</father>
+			</node>
+			<node name = "空中卫士">
+			<father>更多</father>
+			</node>
+			<node name = "天翼银宝">
+			<father>更多</father>
+			</node>
+			<node name = "手机卫士">
+			<father>更多</father>
+			</node>
+			<node name = "国际及港澳台长途">
+			<father>更多</father>
+			</node>
+			<node name = "翼机通+">
+			<father>更多</father>
+			</node>
+			<node name = "电信卡业务">
+			<father>更多</father>
+			</node>
+			<node name = "固话呼出限制">
+			<father>更多</father>
+			</node>
+			<node name = "天翼来电显示">
+			<father>更多</father>
+			</node>
+			<node name = "手机无忧">
+			<father>更多</father>
+			</node>
+			<node name = "17900IP卡">
+			<father>更多</father>
+			</node>
+			<node name = "江苏电教同步课堂">
+			<father>更多</father>
+			</node>
+			<node name = "超级副号">
+			<father>更多</father>
+			</node>
+			<node name = "健康管家手机客户端">
+			<father>更多</father>
+			</node>
+			<node name = "号簿助手">
+			<father>更多</father>
+			</node>
+			<node name = "一号通行">
+			<father>更多</father>
+			</node>
+			<node name = "铃音DIY">
+			<father>更多</father>
+			</node>
+			<node name = "天翼通信助理">
+			<father>更多</father>
+			</node>
+			<node name = "净网卫士">
+			<father>更多</father>
+			</node>
+			<node name = "118333银联卡充值业务">
+			<father>更多</father>
+			</node>
+			<node name = "宽带（固话）移机">
+			<father>更多</father>
+			</node>
+			<node name = "固话过户">
+			<father>更多</father>
+			</node>
+			<node name = "固话呼叫等待">
+			<father>更多</father>
+			</node>
+			<node name = "气象业务（96121）">
+			<father>更多</father>
+			</node>
+			<node name = "固话无条件呼叫转移">
+			<father>更多</father>
+			</node>
+			<node name = "固话无应答呼叫转移">
+			<father>更多</father>
+			</node>
+			<node name = "固话遇忙呼叫转移">
+			<father>更多</father>
+			</node>
+			<node name = "七彩铃音">
+			<father>更多</father>
+			</node>
+			<node name = "主叫彩铃">
+			<father>更多</father>
+			</node>
+			<node name = "宽带路由服务">
+			<father>更多</father>
+			</node>
+			<node name = "甜橙理财APP">
+			<father>更多</father>
+			</node>
+			<node name = "E监控">
+			<father>更多</father>
+			</node>
+			<node name = "无线宽带（增强版）">
+			<father>更多</father>
+			</node>
+			<node name = "**133国际回拨（2015年7月1日起执行）">
+			<father>更多</father>
+			</node>
+			<node name = "手机套餐升档">
+			<father>更多</father>
+			</node>
+			<node name = "天翼挂失／解挂">
+			<father>更多</father>
+			</node>
+			<node name = "翼集分">
+			<father>更多</father>
+			</node>
+			<node name = "心情驿站会员版--Go乐园">
+			<father>更多</father>
+			</node>
+			<node name = "爱城市">
+			<father>更多</father>
+			</node>
+			<node name = "人才顾问（社会版）">
+			<father>更多</father>
+			</node>
+			<node name = "固话缩位拨号">
+			<father>更多</father>
+			</node>
+			<node name = "950509多方通话">
+			<father>更多</father>
+			</node>
+			<node name = "改号提醒业务">
+			<father>更多</father>
+			</node>
+			<node name = "游轮服务">
+			<father>更多</father>
+			</node>
+			<node name = "空中服务">
+			<father>更多</father>
+			</node>
+			<node name = "学乐中国">
+			<father>更多</father>
+			</node>
+			<node name = "网络传真（真实号码版）">
+			<father>更多</father>
+			</node>
+			<node name = "电信QQ营业厅">
+			<father>更多</father>
+			</node>
+			<node name = "爆笑百科">
+			<father>更多</father>
+			</node>
+			<node name = "天翼分享">
+			<father>更多</father>
+			</node>
+			<node name = "国际及港澳台长途直拨电话">
+			<father>更多</father>
+			</node>
+			<node name = "固话来电显示">
+			<father>更多</father>
+			</node>
+			<node name = "天翼好友圈">
+			<father>更多</father>
+			</node>
+			<node name = "118114务工热线">
+			<father>更多</father>
+			</node>
+			<node name = "11808长途特惠热线（固定电话）">
+			<father>更多</father>
+			</node>
+			<node name = "号百招聘">
+			<father>更多</father>
+			</node>
+			<node name = "澳门落地漫游业务">
+			<father>更多</father>
+			</node>
+			<node name = "天翼呼叫等待">
+			<father>更多</father>
+			</node>
+			<node name = "11808长途优惠业务（手机版）">
+			<father>更多</father>
+			</node>
+			<node name = "16883698声讯话匣子业务">
+			<father>更多</father>
+			</node>
+			<node name = "国内长途">
+			<father>更多</father>
+			</node>
+			<node name = "税务e通--网络发票">
+			<father>更多</father>
+			</node>
+			<node name = "时事漫画报">
+			<father>更多</father>
+			</node>
+			<node name = "国际卫星电话">
+			<father>更多</father>
+			</node>
+			<node name = "IDC">
+			<father>更多</father>
+			</node>
+</document>
